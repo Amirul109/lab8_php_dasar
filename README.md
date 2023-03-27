@@ -1,6 +1,6 @@
 # lab8_php_dasar
 
-- pemrograman web2
+pemrograman web2
 
 ----------------------------
  - Nama : Amirul Mu'minin  

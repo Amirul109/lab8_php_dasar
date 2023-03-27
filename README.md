@@ -3,11 +3,12 @@
 - pemrograman web2
 
 ----------------------------
-  Nama : Amirul Mu'minin  
-  nim  : 312110109            
-  kelas: Ti.21.c2              
+ - Nama : Amirul Mu'minin  
+ - nim  : 312110109            
+ - kelas: Ti.21.C2              
 ----------------------------
 
+----------------------------
 koneksikan ke xampp control
 
 ![Screenshot (114)](https://user-images.githubusercontent.com/116171779/227879697-8aae2cc0-16af-4919-934d-07b2091a2aed.png)

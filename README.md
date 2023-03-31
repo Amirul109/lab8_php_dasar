@@ -24,3 +24,8 @@ Tampilan awal sebelum ada barang
 form penambahan barang
 
 ![Screenshot (118)](https://user-images.githubusercontent.com/116171779/227880039-3e3f69f8-c675-4046-a8af-60a9472e2bd4.png)
+
+data barang masuk
+
+![output](https://user-images.githubusercontent.com/116171779/229059772-2c0630f4-f792-461b-961f-6e1e7061d68a.jpg)
+
